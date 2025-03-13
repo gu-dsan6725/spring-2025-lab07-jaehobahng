@@ -4,6 +4,7 @@ model/
 unsloth_compiled_cache/
 unsloth_training_sample.egg-info/
 lora_model/
+lora_model_lab/
 outputs/
 *unsloth*sentencepiece_temp/
 a_model/
